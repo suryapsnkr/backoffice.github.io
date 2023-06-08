@@ -1,5 +1,5 @@
 {
-    "name": "backoffice",
+    "name": "BackOffice",
     "short_name": "backoffice",
     "start_url": ".",
     "display": "standalone",
