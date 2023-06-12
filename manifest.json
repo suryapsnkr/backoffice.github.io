@@ -1,6 +1,6 @@
 {
-    "name": "backoffice",
-    "short_name": "backoffice",
+    "name": "BackOffice",
+    "short_name": "BackOffice",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
